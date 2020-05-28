@@ -10,3 +10,11 @@ What to do just after getting laidoff?
 
 ## Do not panic.
 You are not only one who is laidoff there are many others like you. Only by panicking less you can be objective and execute the plan you have created. 
+
+
+
+## Leetcode
+
+
+## Hacks 
+Linkedin premium.
